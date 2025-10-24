@@ -46,9 +46,10 @@ Below are the summarized answers to the core questions, demonstrating the final 
 
 ## 🖼️ Dashboard Screenshot
 
-*https://github.com/Khogali04/LaLiga-Player-Analysis/blob/62385fcf6abc069b55fb3560ae817363da5740f5/Dashboard%201.png*
-*https://github.com/Khogali04/LaLiga-Player-Analysis/blob/62385fcf6abc069b55fb3560ae817363da5740f5/Dashboard%202.png*
-*https://github.com/Khogali04/LaLiga-Player-Analysis/blob/62385fcf6abc069b55fb3560ae817363da5740f5/Dashboard%203.png*
+![image alt](https://github.com/Khogali04/LaLiga-Player-Analysis/blob/main/Dashboard%201.jpg?raw=true)
+![image alt](https://github.com/Khogali04/LaLiga-Player-Analysis/blob/main/Dashboard%202.png?raw=true)
+![image alt](https://github.com/Khogali04/LaLiga-Player-Analysis/blob/main/Dashboard%203.png?raw=true)
+
 
 ## 📁 Repository Contents
 
