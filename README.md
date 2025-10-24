@@ -46,6 +46,10 @@ Below are the summarized answers to the core questions, demonstrating the final 
 
 ## 🖼️ Dashboard Screenshot
 
+*(The main visual section of your report)*
+
+**[Drag and drop your best dashboard screenshot here! GitHub will automatically upload and create a link.]**
+
 ## 📁 Repository Contents
 
 * `/analytics/`:
