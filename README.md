@@ -46,9 +46,9 @@ Below are the summarized answers to the core questions, demonstrating the final 
 
 ## 🖼️ Dashboard Screenshot
 
-*(The main visual section of your report)*
-
-**[Drag and drop your best dashboard screenshot here! GitHub will automatically upload and create a link.]**
+*https://github.com/Khogali04/LaLiga-Player-Analysis/blob/62385fcf6abc069b55fb3560ae817363da5740f5/Dashboard%201.png*
+*https://github.com/Khogali04/LaLiga-Player-Analysis/blob/62385fcf6abc069b55fb3560ae817363da5740f5/Dashboard%202.png*
+*https://github.com/Khogali04/LaLiga-Player-Analysis/blob/62385fcf6abc069b55fb3560ae817363da5740f5/Dashboard%203.png*
 
 ## 📁 Repository Contents
 
